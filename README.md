@@ -19,5 +19,5 @@ behind the truth of the situation, feel free to send me an email at
   - [x] Text
   - [ ] Video
 - 001.5
-  - [ ] Text
+  - [x] Text
 - More...
