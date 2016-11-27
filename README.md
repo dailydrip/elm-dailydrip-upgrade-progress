@@ -51,7 +51,7 @@ behind the truth of the situation, feel free to send me an email at
 - 004.1
   - [x] Text
 - 004.2
-  - [ ] Text
+  - [x] Text
   - [ ] Video
 - 004.3
   - [ ] Text
