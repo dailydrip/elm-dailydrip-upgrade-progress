@@ -54,7 +54,10 @@ behind the truth of the situation, feel free to send me an email at
   - [x] Text
   - [ ] Video
 - 004.3
-  - [ ] Text
+  - I marked this episode deprecated to avoid encouraging people to
+    'componentize' their Elm programs early on - if they want to use this later
+    that's fine, but Evan's been pretty clear that people doing this to get
+    stateful components is a bit of a mistake, so I'm ignoring it for now.
 - 004.4
   - [ ] Text
   - [ ] Video
