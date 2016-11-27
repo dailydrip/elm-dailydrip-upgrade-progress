@@ -37,13 +37,15 @@ behind the truth of the situation, feel free to send me an email at
 - 003.1
   - [x] Text
 - 003.2
-  - [ ] Text
+  - [x] Text
   - [ ] Video
 - 003.3
-  - [ ] Text
+  - [x] Text
 - 003.4
-  - [ ] Text
+  - [x] Text
   - [ ] Video
 - 003.5
+  - [x] Text
+- 003.6
   - [ ] Text
 - More...
