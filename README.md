@@ -20,4 +20,30 @@ behind the truth of the situation, feel free to send me an email at
   - [ ] Video
 - 001.5
   - [x] Text
+- 002.1
+  - [x] Text
+- 002.2
+  - This episode no longer exists - it was removed / deprecated in the move to
+    0.17.
+- 002.3
+  - [x] Text
+- 002.4
+  - [x] Text
+  - [ ] Video
+- 002.5
+  - [x] Text
+- 002.6
+  - [x] Text
+- 003.1
+  - [x] Text
+- 003.2
+  - [ ] Text
+  - [ ] Video
+- 003.3
+  - [ ] Text
+- 003.4
+  - [ ] Text
+  - [ ] Video
+- 003.5
+  - [ ] Text
 - More...
