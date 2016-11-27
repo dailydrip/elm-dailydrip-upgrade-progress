@@ -59,7 +59,7 @@ behind the truth of the situation, feel free to send me an email at
     that's fine, but Evan's been pretty clear that people doing this to get
     stateful components is a bit of a mistake, so I'm ignoring it for now.
 - 004.4
-  - [ ] Text
+  - [x] Text
   - [ ] Video
 - 004.5
   - [ ] Text
