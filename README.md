@@ -47,5 +47,17 @@ behind the truth of the situation, feel free to send me an email at
 - 003.5
   - [x] Text
 - 003.6
+  - [x] Text
+- 004.1
+  - [ ] Text
+- 004.2
+  - [ ] Text
+  - [ ] Video
+- 004.3
+  - [ ] Text
+- 004.4
+  - [ ] Text
+  - [ ] Video
+- 004.5
   - [ ] Text
 - More...
