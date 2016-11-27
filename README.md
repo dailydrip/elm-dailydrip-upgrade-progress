@@ -49,7 +49,7 @@ behind the truth of the situation, feel free to send me an email at
 - 003.6
   - [x] Text
 - 004.1
-  - [ ] Text
+  - [x] Text
 - 004.2
   - [ ] Text
   - [ ] Video
