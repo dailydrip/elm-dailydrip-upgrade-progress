@@ -12,7 +12,7 @@ behind the truth of the situation, feel free to send me an email at
   - [x] Text
 - 001.2
   - [x] Text
-  - [ ] Video
+  - [x] Video
 - 001.3
   - [x] Text
 - 001.4
