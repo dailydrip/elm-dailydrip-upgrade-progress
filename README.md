@@ -73,8 +73,10 @@ behind the truth of the situation, feel free to send me an email at
 - 005.3
   - [x] Text
 - 005.4
-  - [ ] Text
+  - [x] Text
   - [ ] Video
 - 005.5
-  - [ ] Text
+  - [x] Text
+- 005.6
+  - [x] Text
 - More...
